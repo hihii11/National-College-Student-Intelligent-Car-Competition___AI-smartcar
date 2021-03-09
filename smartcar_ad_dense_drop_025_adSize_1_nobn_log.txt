@@ -1,0 +1,528 @@
+times=0,loss=100000.0000,accu=0.0000,lr=0.010000,decay=0.000002
+Saved times=1,loss=0.0502,accu=0.0289,lr=0.010000,decay=0.000002overfit rate = 0%
+times=2,loss=0.0502,accu=0.0289,lr=0.009970,decay=0.000002overfit rate = 5%
+Saved times=3,loss=0.0414,accu=0.0294,lr=0.009940,decay=0.000002overfit rate = 0%
+Saved times=4,loss=0.0291,accu=0.0295,lr=0.009910,decay=0.000002overfit rate = 0%
+times=5,loss=0.0291,accu=0.0295,lr=0.009881,decay=0.000002overfit rate = 10%
+times=6,loss=0.0291,accu=0.0295,lr=0.009851,decay=0.000002overfit rate = 5%
+Saved times=7,loss=0.0241,accu=0.0296,lr=0.009822,decay=0.000002overfit rate = 0%
+times=8,loss=0.0241,accu=0.0296,lr=0.009792,decay=0.000002overfit rate = 5%
+Saved times=9,loss=0.0220,accu=0.0294,lr=0.009763,decay=0.000002overfit rate = 0%
+times=10,loss=0.0220,accu=0.0294,lr=0.009734,decay=0.000002overfit rate = 25%
+times=11,loss=0.0220,accu=0.0294,lr=0.009704,decay=0.000002overfit rate = 5%
+times=12,loss=0.0220,accu=0.0294,lr=0.009675,decay=0.000002overfit rate = 5%
+times=13,loss=0.0220,accu=0.0294,lr=0.009646,decay=0.000002overfit rate = 5%
+times=14,loss=0.0220,accu=0.0294,lr=0.009618,decay=0.000002overfit rate = 30%
+times=15,loss=0.0220,accu=0.0294,lr=0.009589,decay=0.000002overfit rate = 45%
+times=16,loss=0.0220,accu=0.0294,lr=0.009560,decay=0.000002overfit rate = 40%
+times=17,loss=0.0220,accu=0.0294,lr=0.009531,decay=0.000002overfit rate = 55%
+times=18,loss=0.0220,accu=0.0294,lr=0.009503,decay=0.000002overfit rate = 20%
+Saved times=19,loss=0.0209,accu=0.0297,lr=0.009474,decay=0.000002overfit rate = 0%
+times=20,loss=0.0209,accu=0.0297,lr=0.009446,decay=0.000002overfit rate = 30%
+Saved times=21,loss=0.0204,accu=0.0297,lr=0.009418,decay=0.000002overfit rate = 0%
+Saved times=22,loss=0.0200,accu=0.0297,lr=0.009389,decay=0.000002overfit rate = 0%
+times=23,loss=0.0200,accu=0.0297,lr=0.009361,decay=0.000002overfit rate = 15%
+times=24,loss=0.0200,accu=0.0297,lr=0.009333,decay=0.000002overfit rate = 65%
+times=25,loss=0.0200,accu=0.0297,lr=0.009305,decay=0.000002overfit rate = 55%
+times=26,loss=0.0200,accu=0.0297,lr=0.009277,decay=0.000002overfit rate = 5%
+times=27,loss=0.0200,accu=0.0297,lr=0.009250,decay=0.000002overfit rate = 5%
+times=28,loss=0.0200,accu=0.0297,lr=0.009222,decay=0.000002overfit rate = 30%
+Saved times=29,loss=0.0184,accu=0.0296,lr=0.009194,decay=0.000002overfit rate = 0%
+Saved times=30,loss=0.0171,accu=0.0297,lr=0.009167,decay=0.000002overfit rate = 0%
+times=31,loss=0.0171,accu=0.0297,lr=0.009139,decay=0.000002overfit rate = 10%
+times=32,loss=0.0171,accu=0.0297,lr=0.009112,decay=0.000002overfit rate = 5%
+times=33,loss=0.0171,accu=0.0297,lr=0.009085,decay=0.000002overfit rate = 60%
+times=34,loss=0.0171,accu=0.0297,lr=0.009057,decay=0.000002overfit rate = 60%
+times=35,loss=0.0171,accu=0.0297,lr=0.009030,decay=0.000002overfit rate = 15%
+times=36,loss=0.0171,accu=0.0297,lr=0.009003,decay=0.000002overfit rate = 10%
+times=1,loss=0.0171,accu=0.0297,lr=0.009970,decay=0.000002overfit rate = 0%
+Saved times=2,loss=0.0170,accu=0.0297,lr=0.009940,decay=0.000002overfit rate = 0%
+times=3,loss=0.0170,accu=0.0297,lr=0.009910,decay=0.000002overfit rate = 5%
+times=4,loss=0.0170,accu=0.0297,lr=0.009881,decay=0.000002overfit rate = 0%
+times=5,loss=0.0170,accu=0.0297,lr=0.009851,decay=0.000002overfit rate = 20%
+times=6,loss=0.0170,accu=0.0297,lr=0.009822,decay=0.000002overfit rate = 15%
+Saved times=7,loss=0.0166,accu=0.0297,lr=0.009792,decay=0.000002overfit rate = 0%
+times=8,loss=0.0166,accu=0.0297,lr=0.009763,decay=0.000002overfit rate = 35%
+Saved times=9,loss=0.0154,accu=0.0297,lr=0.009734,decay=0.000002overfit rate = 0%
+times=10,loss=0.0154,accu=0.0297,lr=0.009704,decay=0.000002overfit rate = 5%
+times=11,loss=0.0154,accu=0.0297,lr=0.009675,decay=0.000002overfit rate = 10%
+times=12,loss=0.0154,accu=0.0297,lr=0.009646,decay=0.000002overfit rate = 15%
+times=13,loss=0.0154,accu=0.0297,lr=0.009618,decay=0.000002overfit rate = 35%
+times=14,loss=0.0154,accu=0.0297,lr=0.009589,decay=0.000002overfit rate = 35%
+Saved times=15,loss=0.0151,accu=0.0297,lr=0.009560,decay=0.000002overfit rate = 0%
+times=16,loss=0.0151,accu=0.0297,lr=0.009531,decay=0.000002overfit rate = 5%
+times=17,loss=0.0151,accu=0.0297,lr=0.009503,decay=0.000002overfit rate = 35%
+times=1,loss=0.0151,accu=0.0297,lr=0.009970,decay=0.000002overfit rate = 0%
+times=2,loss=0.0151,accu=0.0297,lr=0.009940,decay=0.000002overfit rate = 0%
+times=3,loss=0.0151,accu=0.0297,lr=0.009910,decay=0.000002overfit rate = 5%
+times=4,loss=0.0151,accu=0.0297,lr=0.009881,decay=0.000002overfit rate = 5%
+times=5,loss=0.0151,accu=0.0297,lr=0.009851,decay=0.000002overfit rate = 5%
+times=6,loss=0.0151,accu=0.0297,lr=0.004911,decay=0.000002overfit rate = 0%
+Saved times=7,loss=0.0150,accu=0.0297,lr=0.004896,decay=0.000002overfit rate = 0%
+Saved times=8,loss=0.0147,accu=0.0298,lr=0.004881,decay=0.000002overfit rate = 0%
+times=9,loss=0.0147,accu=0.0298,lr=0.004867,decay=0.000002overfit rate = 20%
+times=10,loss=0.0147,accu=0.0298,lr=0.004852,decay=0.000002overfit rate = 10%
+times=11,loss=0.0147,accu=0.0298,lr=0.004838,decay=0.000002overfit rate = 10%
+times=12,loss=0.0147,accu=0.0298,lr=0.004823,decay=0.000002overfit rate = 5%
+Saved times=13,loss=0.0143,accu=0.0297,lr=0.004809,decay=0.000002overfit rate = 0%
+times=14,loss=0.0143,accu=0.0297,lr=0.004794,decay=0.000002overfit rate = 10%
+times=15,loss=0.0143,accu=0.0297,lr=0.004780,decay=0.000002overfit rate = 50%
+times=16,loss=0.0143,accu=0.0297,lr=0.004766,decay=0.000002overfit rate = 15%
+Saved times=17,loss=0.0142,accu=0.0297,lr=0.004751,decay=0.000002overfit rate = 0%
+times=18,loss=0.0142,accu=0.0297,lr=0.004737,decay=0.000002overfit rate = 35%
+times=19,loss=0.0142,accu=0.0297,lr=0.004723,decay=0.000002overfit rate = 10%
+times=20,loss=0.0142,accu=0.0297,lr=0.004709,decay=0.000002overfit rate = 45%
+times=21,loss=0.0142,accu=0.0297,lr=0.004695,decay=0.000002overfit rate = 20%
+times=22,loss=0.0142,accu=0.0297,lr=0.004681,decay=0.000002overfit rate = 10%
+times=23,loss=0.0142,accu=0.0297,lr=0.004667,decay=0.000002overfit rate = 50%
+times=24,loss=0.0142,accu=0.0297,lr=0.004653,decay=0.000002overfit rate = 90%
+Saved times=25,loss=0.0137,accu=0.0298,lr=0.004639,decay=0.000002overfit rate = 0%
+times=26,loss=0.0137,accu=0.0298,lr=0.004625,decay=0.000002overfit rate = 15%
+times=27,loss=0.0137,accu=0.0298,lr=0.004611,decay=0.000002overfit rate = 25%
+times=28,loss=0.0137,accu=0.0298,lr=0.004597,decay=0.000002overfit rate = 10%
+times=29,loss=0.0137,accu=0.0298,lr=0.004583,decay=0.000002overfit rate = 60%
+times=30,loss=0.0137,accu=0.0298,lr=0.004570,decay=0.000002overfit rate = 60%
+times=31,loss=0.0137,accu=0.0298,lr=0.004556,decay=0.000002overfit rate = 50%
+times=32,loss=0.0137,accu=0.0298,lr=0.004542,decay=0.000002overfit rate = 30%
+times=33,loss=0.0137,accu=0.0298,lr=0.004529,decay=0.000002overfit rate = 10%
+times=34,loss=0.0137,accu=0.0298,lr=0.004515,decay=0.000002overfit rate = 100%
+times=35,loss=0.0137,accu=0.0298,lr=0.004502,decay=0.000002overfit rate = 5%
+times=36,loss=0.0137,accu=0.0298,lr=0.004488,decay=0.000002overfit rate = 0%
+times=37,loss=0.0137,accu=0.0298,lr=0.004475,decay=0.000002overfit rate = 90%
+times=38,loss=0.0137,accu=0.0298,lr=0.004461,decay=0.000002overfit rate = 25%
+times=39,loss=0.0137,accu=0.0298,lr=0.004448,decay=0.000002overfit rate = 10%
+times=40,loss=0.0137,accu=0.0298,lr=0.004435,decay=0.000002overfit rate = 10%
+times=41,loss=0.0137,accu=0.0298,lr=0.004421,decay=0.000002overfit rate = 60%
+times=42,loss=0.0137,accu=0.0298,lr=0.004408,decay=0.000002overfit rate = 85%
+times=43,loss=0.0137,accu=0.0298,lr=0.004395,decay=0.000002overfit rate = 25%
+Saved times=1,loss=0.0128,accu=0.0298,lr=0.004287,decay=0.000002overfit rate = 0%
+Saved times=2,loss=0.0125,accu=0.0298,lr=0.004274,decay=0.000002overfit rate = 0%
+times=3,loss=0.0125,accu=0.0298,lr=0.004261,decay=0.000002overfit rate = 5%
+times=4,loss=0.0125,accu=0.0298,lr=0.004249,decay=0.000002overfit rate = 15%
+times=5,loss=0.0125,accu=0.0298,lr=0.004236,decay=0.000002overfit rate = 0%
+times=6,loss=0.0125,accu=0.0298,lr=0.004223,decay=0.000002overfit rate = 25%
+times=7,loss=0.0125,accu=0.0298,lr=0.004211,decay=0.000002overfit rate = 15%
+times=8,loss=0.0125,accu=0.0298,lr=0.004198,decay=0.000002overfit rate = 25%
+times=9,loss=0.0125,accu=0.0298,lr=0.004185,decay=0.000002overfit rate = 25%
+times=10,loss=0.0125,accu=0.0298,lr=0.004173,decay=0.000002overfit rate = 10%
+times=11,loss=0.0125,accu=0.0298,lr=0.004160,decay=0.000002overfit rate = 20%
+times=12,loss=0.0125,accu=0.0298,lr=0.004148,decay=0.000002overfit rate = 10%
+times=13,loss=0.0125,accu=0.0298,lr=0.004136,decay=0.000002overfit rate = 10%
+times=14,loss=0.0125,accu=0.0298,lr=0.004123,decay=0.000002overfit rate = 45%
+Saved times=15,loss=0.0124,accu=0.0298,lr=0.004111,decay=0.000002overfit rate = 0%
+times=16,loss=0.0124,accu=0.0298,lr=0.004098,decay=0.000002overfit rate = 50%
+times=17,loss=0.0124,accu=0.0298,lr=0.004086,decay=0.000002overfit rate = 0%
+times=1,loss=0.0124,accu=0.0298,lr=0.009970,decay=0.000002overfit rate = 0%
+times=2,loss=0.0124,accu=0.0298,lr=0.009940,decay=0.000002overfit rate = 5%
+times=3,loss=0.0124,accu=0.0298,lr=0.009910,decay=0.000002overfit rate = 10%
+times=4,loss=0.0124,accu=0.0298,lr=0.009881,decay=0.000002overfit rate = 5%
+times=5,loss=0.0124,accu=0.0298,lr=0.009851,decay=0.000002overfit rate = 10%
+times=6,loss=0.0124,accu=0.0298,lr=0.004911,decay=0.000002overfit rate = 0%
+times=7,loss=0.0124,accu=0.0298,lr=0.004896,decay=0.000002overfit rate = 0%
+times=8,loss=0.0124,accu=0.0298,lr=0.004881,decay=0.000002overfit rate = 10%
+times=9,loss=0.0124,accu=0.0298,lr=0.004867,decay=0.000002overfit rate = 10%
+times=10,loss=0.0124,accu=0.0298,lr=0.004852,decay=0.000002overfit rate = 0%
+times=11,loss=0.0124,accu=0.0298,lr=0.004838,decay=0.000002overfit rate = 15%
+times=12,loss=0.0124,accu=0.0298,lr=0.004823,decay=0.000002overfit rate = 10%
+times=13,loss=0.0124,accu=0.0298,lr=0.004809,decay=0.000002overfit rate = 0%
+times=14,loss=0.0124,accu=0.0298,lr=0.004794,decay=0.000002overfit rate = 40%
+times=15,loss=0.0124,accu=0.0298,lr=0.004780,decay=0.000002overfit rate = 0%
+times=16,loss=0.0124,accu=0.0298,lr=0.004766,decay=0.000002overfit rate = 0%
+times=17,loss=0.0124,accu=0.0298,lr=0.004751,decay=0.000002overfit rate = 10%
+times=18,loss=0.0124,accu=0.0298,lr=0.004737,decay=0.000002overfit rate = 0%
+times=19,loss=0.0124,accu=0.0298,lr=0.004723,decay=0.000002overfit rate = 80%
+times=20,loss=0.0124,accu=0.0298,lr=0.004709,decay=0.000002overfit rate = 10%
+times=21,loss=0.0124,accu=0.0298,lr=0.004695,decay=0.000002overfit rate = 20%
+times=1,loss=0.0124,accu=0.0298,lr=0.004287,decay=0.000002overfit rate = 0%
+times=2,loss=0.0124,accu=0.0298,lr=0.004274,decay=0.000002overfit rate = 0%
+times=3,loss=0.0124,accu=0.0298,lr=0.004261,decay=0.000002overfit rate = 10%
+times=4,loss=0.0124,accu=0.0298,lr=0.004249,decay=0.000002overfit rate = 15%
+times=5,loss=0.0124,accu=0.0298,lr=0.004236,decay=0.000002overfit rate = 20%
+Saved times=6,loss=0.0123,accu=0.0298,lr=0.002112,decay=0.000002overfit rate = 0%
+Saved times=7,loss=0.0119,accu=0.0298,lr=0.002105,decay=0.000002overfit rate = 0%
+times=8,loss=0.0119,accu=0.0298,lr=0.002099,decay=0.000002overfit rate = 5%
+times=9,loss=0.0119,accu=0.0298,lr=0.002093,decay=0.000002overfit rate = 5%
+times=10,loss=0.0119,accu=0.0298,lr=0.002086,decay=0.000002overfit rate = 10%
+times=11,loss=0.0119,accu=0.0298,lr=0.002080,decay=0.000002overfit rate = 10%
+times=12,loss=0.0119,accu=0.0298,lr=0.002074,decay=0.000002overfit rate = 10%
+times=13,loss=0.0119,accu=0.0298,lr=0.002068,decay=0.000002overfit rate = 10%
+times=14,loss=0.0119,accu=0.0298,lr=0.002062,decay=0.000002overfit rate = 30%
+times=15,loss=0.0119,accu=0.0298,lr=0.002055,decay=0.000002overfit rate = 0%
+Saved times=1,loss=0.0116,accu=0.0298,lr=0.001994,decay=0.000002overfit rate = 0%
+times=2,loss=0.0116,accu=0.0298,lr=0.001988,decay=0.000002overfit rate = 5%
+Saved times=3,loss=0.0115,accu=0.0298,lr=0.001982,decay=0.000002overfit rate = 0%
+times=4,loss=0.0115,accu=0.0298,lr=0.001976,decay=0.000002overfit rate = 5%
+times=5,loss=0.0115,accu=0.0298,lr=0.001970,decay=0.000002overfit rate = 20%
+times=6,loss=0.0115,accu=0.0298,lr=0.001964,decay=0.000002overfit rate = 15%
+times=7,loss=0.0115,accu=0.0298,lr=0.001958,decay=0.000002overfit rate = 15%
+times=8,loss=0.0115,accu=0.0298,lr=0.001953,decay=0.000002overfit rate = 0%
+times=9,loss=0.0115,accu=0.0298,lr=0.000973,decay=0.000002overfit rate = 0%
+times=10,loss=0.0115,accu=0.0298,lr=0.000970,decay=0.000002overfit rate = 0%
+times=11,loss=0.0115,accu=0.0298,lr=0.000968,decay=0.000002overfit rate = 30%
+times=12,loss=0.0115,accu=0.0298,lr=0.000965,decay=0.000002overfit rate = 0%
+times=1,loss=0.0115,accu=0.0298,lr=0.001994,decay=0.000002overfit rate = 0%
+times=2,loss=0.0115,accu=0.0298,lr=0.001988,decay=0.000002overfit rate = 0%
+times=3,loss=0.0115,accu=0.0298,lr=0.001982,decay=0.000002overfit rate = 0%
+times=4,loss=0.0115,accu=0.0298,lr=0.001976,decay=0.000002overfit rate = 10%
+times=5,loss=0.0115,accu=0.0298,lr=0.001970,decay=0.000002overfit rate = 0%
+times=6,loss=0.0115,accu=0.0298,lr=0.001964,decay=0.000002overfit rate = 0%
+times=7,loss=0.0115,accu=0.0298,lr=0.001958,decay=0.000002overfit rate = 0%
+times=8,loss=0.0115,accu=0.0298,lr=0.001953,decay=0.000002overfit rate = 0%
+times=9,loss=0.0115,accu=0.0298,lr=0.001947,decay=0.000002overfit rate = 30%
+times=10,loss=0.0115,accu=0.0298,lr=0.001941,decay=0.000002overfit rate = 0%
+times=11,loss=0.0115,accu=0.0298,lr=0.001935,decay=0.000002overfit rate = 35%
+times=12,loss=0.0115,accu=0.0298,lr=0.001929,decay=0.000002overfit rate = 35%
+times=13,loss=0.0115,accu=0.0298,lr=0.001924,decay=0.000002overfit rate = 0%
+Saved times=14,loss=0.0114,accu=0.0298,lr=0.001918,decay=0.000002overfit rate = 0%
+times=15,loss=0.0114,accu=0.0298,lr=0.001912,decay=0.000002overfit rate = 5%
+times=16,loss=0.0114,accu=0.0298,lr=0.001906,decay=0.000002overfit rate = 0%
+times=17,loss=0.0114,accu=0.0298,lr=0.001901,decay=0.000002overfit rate = 55%
+times=18,loss=0.0114,accu=0.0298,lr=0.001895,decay=0.000002overfit rate = 35%
+times=1,loss=0.0114,accu=0.0298,lr=0.009970,decay=0.000002overfit rate = 0%
+times=2,loss=0.0114,accu=0.0298,lr=0.009940,decay=0.000002overfit rate = 5%
+times=1,loss=0.0114,accu=0.0298,lr=0.001994,decay=0.000002overfit rate = 0%
+times=2,loss=0.0114,accu=0.0298,lr=0.001988,decay=0.000002overfit rate = 5%
+times=3,loss=0.0114,accu=0.0298,lr=0.001982,decay=0.000002overfit rate = 0%
+times=4,loss=0.0114,accu=0.0298,lr=0.001976,decay=0.000002overfit rate = 0%
+times=5,loss=0.0114,accu=0.0298,lr=0.001970,decay=0.000002overfit rate = 0%
+times=6,loss=0.0114,accu=0.0298,lr=0.000982,decay=0.000002overfit rate = 0%
+times=7,loss=0.0114,accu=0.0298,lr=0.000979,decay=0.000002overfit rate = 5%
+times=8,loss=0.0114,accu=0.0298,lr=0.000976,decay=0.000002overfit rate = 0%
+times=9,loss=0.0114,accu=0.0298,lr=0.000973,decay=0.000002overfit rate = 0%
+times=10,loss=0.0114,accu=0.0298,lr=0.000970,decay=0.000002overfit rate = 0%
+times=11,loss=0.0114,accu=0.0298,lr=0.000968,decay=0.000002overfit rate = 15%
+times=12,loss=0.0114,accu=0.0298,lr=0.000965,decay=0.000002overfit rate = 25%
+times=13,loss=0.0114,accu=0.0298,lr=0.000962,decay=0.000002overfit rate = 20%
+times=14,loss=0.0114,accu=0.0298,lr=0.000959,decay=0.000002overfit rate = 15%
+times=15,loss=0.0114,accu=0.0298,lr=0.000956,decay=0.000002overfit rate = 0%
+Saved times=16,loss=0.0113,accu=0.0298,lr=0.000953,decay=0.000002overfit rate = 0%
+times=17,loss=0.0113,accu=0.0298,lr=0.000950,decay=0.000002overfit rate = 5%
+times=18,loss=0.0113,accu=0.0298,lr=0.000947,decay=0.000002overfit rate = 5%
+times=19,loss=0.0113,accu=0.0298,lr=0.000945,decay=0.000002overfit rate = 50%
+times=20,loss=0.0113,accu=0.0298,lr=0.000942,decay=0.000002overfit rate = 15%
+times=21,loss=0.0113,accu=0.0298,lr=0.000939,decay=0.000002overfit rate = 15%
+Saved times=22,loss=0.0112,accu=0.0298,lr=0.000468,decay=0.000002overfit rate = 0%
+times=23,loss=0.0112,accu=0.0298,lr=0.000467,decay=0.000002overfit rate = 0%
+times=24,loss=0.0112,accu=0.0298,lr=0.000465,decay=0.000002overfit rate = 10%
+times=1,loss=0.0112,accu=0.0298,lr=0.000997,decay=0.000002overfit rate = 0%
+times=2,loss=0.0112,accu=0.0298,lr=0.000994,decay=0.000002overfit rate = 0%
+times=3,loss=0.0112,accu=0.0298,lr=0.000991,decay=0.000002overfit rate = 0%
+Saved times=4,loss=0.0111,accu=0.0298,lr=0.000988,decay=0.000002overfit rate = 0%
+times=5,loss=0.0111,accu=0.0298,lr=0.000985,decay=0.000002overfit rate = 5%
+times=6,loss=0.0111,accu=0.0298,lr=0.000982,decay=0.000002overfit rate = 10%
+times=7,loss=0.0111,accu=0.0298,lr=0.000979,decay=0.000002overfit rate = 5%
+times=8,loss=0.0111,accu=0.0298,lr=0.000976,decay=0.000002overfit rate = 5%
+times=9,loss=0.0111,accu=0.0298,lr=0.000973,decay=0.000002overfit rate = 0%
+times=10,loss=0.0111,accu=0.0298,lr=0.000485,decay=0.000002overfit rate = 10%
+times=11,loss=0.0111,accu=0.0298,lr=0.000484,decay=0.000002overfit rate = 10%
+times=12,loss=0.0111,accu=0.0298,lr=0.000482,decay=0.000002overfit rate = 10%
+times=13,loss=0.0111,accu=0.0298,lr=0.000481,decay=0.000002overfit rate = 10%
+times=14,loss=0.0111,accu=0.0298,lr=0.000479,decay=0.000002overfit rate = 10%
+times=15,loss=0.0111,accu=0.0298,lr=0.000478,decay=0.000002overfit rate = 10%
+times=16,loss=0.0111,accu=0.0298,lr=0.000477,decay=0.000002overfit rate = 10%
+times=17,loss=0.0111,accu=0.0298,lr=0.000475,decay=0.000002overfit rate = 10%
+times=18,loss=0.0111,accu=0.0298,lr=0.000474,decay=0.000002overfit rate = 10%
+times=19,loss=0.0111,accu=0.0298,lr=0.000472,decay=0.000002overfit rate = 10%
+times=20,loss=0.0111,accu=0.0298,lr=0.000471,decay=0.000002overfit rate = 10%
+times=21,loss=0.0111,accu=0.0298,lr=0.000469,decay=0.000002overfit rate = 10%
+times=22,loss=0.0111,accu=0.0298,lr=0.000468,decay=0.000002overfit rate = 10%
+times=23,loss=0.0111,accu=0.0298,lr=0.000467,decay=0.000002overfit rate = 10%
+times=24,loss=0.0111,accu=0.0298,lr=0.000465,decay=0.000002overfit rate = 10%
+times=25,loss=0.0111,accu=0.0298,lr=0.000464,decay=0.000002overfit rate = 95%
+times=1,loss=0.0111,accu=0.0298,lr=0.000399,decay=0.000002overfit rate = 0%
+times=2,loss=0.0111,accu=0.0298,lr=0.000398,decay=0.000002overfit rate = 0%
+times=3,loss=0.0111,accu=0.0298,lr=0.000396,decay=0.000002overfit rate = 0%
+times=4,loss=0.0111,accu=0.0298,lr=0.000395,decay=0.000002overfit rate = 15%
+times=5,loss=0.0111,accu=0.0298,lr=0.000394,decay=0.000002overfit rate = 15%
+times=6,loss=0.0111,accu=0.0298,lr=0.000196,decay=0.000002overfit rate = 0%
+times=7,loss=0.0111,accu=0.0298,lr=0.000196,decay=0.000002overfit rate = 0%
+times=8,loss=0.0111,accu=0.0298,lr=0.000195,decay=0.000002overfit rate = 0%
+times=9,loss=0.0111,accu=0.0298,lr=0.000195,decay=0.000002overfit rate = 0%
+times=10,loss=0.0111,accu=0.0298,lr=0.000194,decay=0.000002overfit rate = 0%
+times=11,loss=0.0111,accu=0.0298,lr=0.000194,decay=0.000002overfit rate = 0%
+times=12,loss=0.0111,accu=0.0298,lr=0.000193,decay=0.000002overfit rate = 10%
+times=13,loss=0.0111,accu=0.0298,lr=0.000192,decay=0.000002overfit rate = 0%
+times=14,loss=0.0111,accu=0.0298,lr=0.000192,decay=0.000002overfit rate = 0%
+times=15,loss=0.0111,accu=0.0298,lr=0.000191,decay=0.000002overfit rate = 20%
+times=16,loss=0.0111,accu=0.0298,lr=0.000191,decay=0.000002overfit rate = 20%
+times=17,loss=0.0111,accu=0.0298,lr=0.000190,decay=0.000002overfit rate = 0%
+times=18,loss=0.0111,accu=0.0298,lr=0.000189,decay=0.000002overfit rate = 25%
+times=19,loss=0.0111,accu=0.0298,lr=0.000189,decay=0.000002overfit rate = 25%
+times=20,loss=0.0111,accu=0.0298,lr=0.000188,decay=0.000002overfit rate = 0%
+times=21,loss=0.0111,accu=0.0298,lr=0.000188,decay=0.000002overfit rate = 30%
+times=22,loss=0.0111,accu=0.0298,lr=0.000187,decay=0.000002overfit rate = 0%
+times=23,loss=0.0111,accu=0.0298,lr=0.000187,decay=0.000002overfit rate = 0%
+times=24,loss=0.0111,accu=0.0298,lr=0.000186,decay=0.000002overfit rate = 0%
+times=25,loss=0.0111,accu=0.0298,lr=0.000186,decay=0.000002overfit rate = 45%
+times=26,loss=0.0111,accu=0.0298,lr=0.000185,decay=0.000002overfit rate = 0%
+times=27,loss=0.0111,accu=0.0298,lr=0.000184,decay=0.000002overfit rate = 50%
+times=28,loss=0.0111,accu=0.0298,lr=0.000184,decay=0.000002overfit rate = 50%
+times=29,loss=0.0111,accu=0.0298,lr=0.000183,decay=0.000002overfit rate = 0%
+times=30,loss=0.0111,accu=0.0298,lr=0.000183,decay=0.000002overfit rate = 0%
+times=31,loss=0.0111,accu=0.0298,lr=0.000182,decay=0.000002overfit rate = 0%
+times=32,loss=0.0111,accu=0.0298,lr=0.000182,decay=0.000002overfit rate = 0%
+times=33,loss=0.0111,accu=0.0298,lr=0.000181,decay=0.000002overfit rate = 0%
+times=34,loss=0.0111,accu=0.0298,lr=0.000181,decay=0.000002overfit rate = 0%
+times=35,loss=0.0111,accu=0.0298,lr=0.000180,decay=0.000002overfit rate = 0%
+times=36,loss=0.0111,accu=0.0298,lr=0.000180,decay=0.000002overfit rate = 0%
+times=37,loss=0.0111,accu=0.0298,lr=0.000179,decay=0.000002overfit rate = 0%
+Saved times=38,loss=0.0110,accu=0.0298,lr=0.000178,decay=0.000002overfit rate = 0%
+times=39,loss=0.0110,accu=0.0298,lr=0.000178,decay=0.000002overfit rate = 75%
+times=40,loss=0.0110,accu=0.0298,lr=0.000177,decay=0.000002overfit rate = 5%
+times=41,loss=0.0110,accu=0.0298,lr=0.000177,decay=0.000002overfit rate = 75%
+times=42,loss=0.0110,accu=0.0298,lr=0.000176,decay=0.000002overfit rate = 5%
+times=43,loss=0.0110,accu=0.0298,lr=0.000176,decay=0.000002overfit rate = 5%
+times=44,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 0%
+times=45,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 10%
+times=46,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 10%
+times=47,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 10%
+times=48,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 0%
+times=49,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 0%
+times=50,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 20%
+times=51,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 0%
+times=52,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 0%
+times=53,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 30%
+times=54,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 30%
+times=55,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 30%
+times=56,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 30%
+times=57,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 0%
+times=58,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 35%
+times=59,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 30%
+times=60,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 0%
+times=61,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 0%
+times=62,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 40%
+times=63,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 40%
+times=64,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 40%
+times=65,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 0%
+times=66,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 0%
+times=67,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 45%
+times=68,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 45%
+times=69,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 0%
+times=70,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 0%
+times=71,loss=0.0110,accu=0.0298,lr=0.000100,decay=0.000002overfit rate = 45%
+Saved times=1,loss=0.0493,accu=0.0298,lr=0.039880,decay=0.000002overfit rate = 0%
+Saved times=2,loss=0.0433,accu=0.0301,lr=0.039761,decay=0.000002overfit rate = 0%
+Saved times=3,loss=0.0247,accu=0.0302,lr=0.039642,decay=0.000002overfit rate = 0%
+times=4,loss=0.0247,accu=0.0302,lr=0.039523,decay=0.000002overfit rate = 5%
+times=5,loss=0.0247,accu=0.0302,lr=0.039404,decay=0.000002overfit rate = 10%
+times=6,loss=0.0247,accu=0.0302,lr=0.039286,decay=0.000002overfit rate = 10%
+times=7,loss=0.0247,accu=0.0302,lr=0.039169,decay=0.000002overfit rate = 5%
+times=8,loss=0.0247,accu=0.0302,lr=0.039051,decay=0.000002overfit rate = 15%
+Saved times=9,loss=0.0242,accu=0.0301,lr=0.019467,decay=0.000002overfit rate = 0%
+Saved times=10,loss=0.0220,accu=0.0301,lr=0.019409,decay=0.000002overfit rate = 0%
+Saved times=11,loss=0.0216,accu=0.0301,lr=0.019351,decay=0.000002overfit rate = 0%
+times=12,loss=0.0216,accu=0.0301,lr=0.019293,decay=0.000002overfit rate = 5%
+times=13,loss=0.0216,accu=0.0301,lr=0.019235,decay=0.000002overfit rate = 15%
+Saved times=14,loss=0.0207,accu=0.0303,lr=0.019177,decay=0.000002overfit rate = 0%
+times=15,loss=0.0207,accu=0.0303,lr=0.019120,decay=0.000002overfit rate = 5%
+Saved times=16,loss=0.0193,accu=0.0303,lr=0.019063,decay=0.000002overfit rate = 0%
+times=17,loss=0.0193,accu=0.0303,lr=0.019006,decay=0.000002overfit rate = 5%
+times=18,loss=0.0193,accu=0.0303,lr=0.018949,decay=0.000002overfit rate = 10%
+times=19,loss=0.0193,accu=0.0303,lr=0.018892,decay=0.000002overfit rate = 5%
+Saved times=20,loss=0.0192,accu=0.0303,lr=0.018835,decay=0.000002overfit rate = 0%
+Saved times=1,loss=0.0178,accu=0.0302,lr=0.009970,decay=0.000002overfit rate = 0%
+times=2,loss=0.0178,accu=0.0302,lr=0.009940,decay=0.000002overfit rate = 5%
+times=3,loss=0.0178,accu=0.0302,lr=0.009910,decay=0.000002overfit rate = 5%
+Saved times=4,loss=0.0172,accu=0.0302,lr=0.009881,decay=0.000002overfit rate = 0%
+times=5,loss=0.0172,accu=0.0302,lr=0.009851,decay=0.000002overfit rate = 5%
+times=6,loss=0.0172,accu=0.0302,lr=0.009822,decay=0.000002overfit rate = 10%
+Saved times=7,loss=0.0171,accu=0.0302,lr=0.009792,decay=0.000002overfit rate = 0%
+Saved times=8,loss=0.0168,accu=0.0303,lr=0.009763,decay=0.000002overfit rate = 0%
+times=9,loss=0.0168,accu=0.0303,lr=0.009734,decay=0.000002overfit rate = 5%
+times=10,loss=0.0168,accu=0.0303,lr=0.009704,decay=0.000002overfit rate = 35%
+times=11,loss=0.0168,accu=0.0303,lr=0.009675,decay=0.000002overfit rate = 0%
+times=12,loss=0.0168,accu=0.0303,lr=0.009646,decay=0.000002overfit rate = 35%
+times=13,loss=0.0168,accu=0.0303,lr=0.009618,decay=0.000002overfit rate = 20%
+Saved times=14,loss=0.0167,accu=0.0302,lr=0.004794,decay=0.000002overfit rate = 0%
+Saved times=15,loss=0.0166,accu=0.0302,lr=0.004780,decay=0.000002overfit rate = 0%
+Saved times=16,loss=0.0165,accu=0.0303,lr=0.004766,decay=0.000002overfit rate = 0%
+times=17,loss=0.0165,accu=0.0303,lr=0.004751,decay=0.000002overfit rate = 30%
+times=18,loss=0.0165,accu=0.0303,lr=0.004737,decay=0.000002overfit rate = 30%
+times=19,loss=0.0165,accu=0.0303,lr=0.004723,decay=0.000002overfit rate = 10%
+times=20,loss=0.0165,accu=0.0303,lr=0.004709,decay=0.000002overfit rate = 35%
+times=21,loss=0.0165,accu=0.0303,lr=0.004695,decay=0.000002overfit rate = 10%
+times=22,loss=0.0165,accu=0.0303,lr=0.002340,decay=0.000002overfit rate = 0%
+times=23,loss=0.0165,accu=0.0303,lr=0.002333,decay=0.000002overfit rate = 40%
+Saved times=24,loss=0.0164,accu=0.0303,lr=0.002326,decay=0.000002overfit rate = 0%
+times=25,loss=0.0164,accu=0.0303,lr=0.002319,decay=0.000002overfit rate = 5%
+times=1,loss=0.0164,accu=0.0303,lr=0.004487,decay=0.000002overfit rate = 0%
+times=2,loss=0.0164,accu=0.0303,lr=0.004473,decay=0.000002overfit rate = 0%
+Saved times=3,loss=0.0163,accu=0.0302,lr=0.004460,decay=0.000002overfit rate = 0%
+Saved times=4,loss=0.0159,accu=0.0302,lr=0.004446,decay=0.000002overfit rate = 0%
+Saved times=5,loss=0.0154,accu=0.0303,lr=0.004433,decay=0.000002overfit rate = 0%
+times=6,loss=0.0154,accu=0.0303,lr=0.004420,decay=0.000002overfit rate = 5%
+times=7,loss=0.0154,accu=0.0303,lr=0.004406,decay=0.000002overfit rate = 5%
+times=8,loss=0.0154,accu=0.0303,lr=0.004393,decay=0.000002overfit rate = 20%
+times=9,loss=0.0154,accu=0.0303,lr=0.004380,decay=0.000002overfit rate = 20%
+times=10,loss=0.0154,accu=0.0303,lr=0.004367,decay=0.000002overfit rate = 0%
+Saved times=11,loss=0.0149,accu=0.0303,lr=0.002177,decay=0.000002overfit rate = 0%
+Saved times=12,loss=0.0147,accu=0.0303,lr=0.002170,decay=0.000002overfit rate = 0%
+times=13,loss=0.0147,accu=0.0303,lr=0.002164,decay=0.000002overfit rate = 30%
+Saved times=14,loss=0.0144,accu=0.0303,lr=0.002157,decay=0.000002overfit rate = 0%
+times=15,loss=0.0144,accu=0.0303,lr=0.002151,decay=0.000002overfit rate = 5%
+times=16,loss=0.0144,accu=0.0303,lr=0.002145,decay=0.000002overfit rate = 15%
+times=17,loss=0.0144,accu=0.0303,lr=0.002138,decay=0.000002overfit rate = 15%
+times=18,loss=0.0144,accu=0.0303,lr=0.002132,decay=0.000002overfit rate = 5%
+times=19,loss=0.0144,accu=0.0303,lr=0.002125,decay=0.000002overfit rate = 0%
+times=20,loss=0.0144,accu=0.0303,lr=0.002119,decay=0.000002overfit rate = 20%
+times=21,loss=0.0144,accu=0.0303,lr=0.002113,decay=0.000002overfit rate = 0%
+Saved times=22,loss=0.0142,accu=0.0303,lr=0.002106,decay=0.000002overfit rate = 0%
+Saved times=23,loss=0.0139,accu=0.0303,lr=0.002100,decay=0.000002overfit rate = 0%
+times=24,loss=0.0139,accu=0.0303,lr=0.002094,decay=0.000002overfit rate = 5%
+times=25,loss=0.0139,accu=0.0303,lr=0.002087,decay=0.000002overfit rate = 5%
+times=26,loss=0.0139,accu=0.0303,lr=0.002081,decay=0.000002overfit rate = 45%
+times=27,loss=0.0139,accu=0.0303,lr=0.002075,decay=0.000002overfit rate = 0%
+times=28,loss=0.0139,accu=0.0303,lr=0.002069,decay=0.000002overfit rate = 10%
+times=29,loss=0.0139,accu=0.0303,lr=0.002063,decay=0.000002overfit rate = 10%
+times=30,loss=0.0139,accu=0.0303,lr=0.002056,decay=0.000002overfit rate = 20%
+times=31,loss=0.0139,accu=0.0303,lr=0.002050,decay=0.000002overfit rate = 20%
+times=32,loss=0.0139,accu=0.0303,lr=0.002044,decay=0.000002overfit rate = 20%
+times=33,loss=0.0139,accu=0.0303,lr=0.002038,decay=0.000002overfit rate = 0%
+times=34,loss=0.0139,accu=0.0303,lr=0.002032,decay=0.000002overfit rate = 0%
+times=35,loss=0.0139,accu=0.0303,lr=0.002026,decay=0.000002overfit rate = 0%
+times=36,loss=0.0139,accu=0.0303,lr=0.002020,decay=0.000002overfit rate = 40%
+Saved times=37,loss=0.0137,accu=0.0303,lr=0.002014,decay=0.000002overfit rate = 0%
+times=1,loss=0.0137,accu=0.0303,lr=0.001994,decay=0.000002overfit rate = 0%
+times=2,loss=0.0137,accu=0.0303,lr=0.001988,decay=0.000002overfit rate = 0%
+times=3,loss=0.0137,accu=0.0303,lr=0.001982,decay=0.000002overfit rate = 0%
+Saved times=4,loss=0.0136,accu=0.0303,lr=0.001976,decay=0.000002overfit rate = 0%
+times=5,loss=0.0136,accu=0.0303,lr=0.001970,decay=0.000002overfit rate = 0%
+times=6,loss=0.0136,accu=0.0303,lr=0.001964,decay=0.000002overfit rate = 0%
+times=7,loss=0.0136,accu=0.0303,lr=0.001958,decay=0.000002overfit rate = 0%
+times=8,loss=0.0136,accu=0.0303,lr=0.001953,decay=0.000002overfit rate = 0%
+times=9,loss=0.0136,accu=0.0303,lr=0.001947,decay=0.000002overfit rate = 0%
+Saved times=10,loss=0.0135,accu=0.0303,lr=0.001941,decay=0.000002overfit rate = 0%
+times=11,loss=0.0135,accu=0.0303,lr=0.001935,decay=0.000002overfit rate = 0%
+times=12,loss=0.0135,accu=0.0303,lr=0.001929,decay=0.000002overfit rate = 0%
+times=13,loss=0.0135,accu=0.0303,lr=0.001924,decay=0.000002overfit rate = 0%
+times=14,loss=0.0135,accu=0.0303,lr=0.001918,decay=0.000002overfit rate = 0%
+times=1,loss=0.0135,accu=0.0303,lr=0.001994,decay=0.000002overfit rate = 0%
+times=2,loss=0.0135,accu=0.0303,lr=0.001988,decay=0.000002overfit rate = 0%
+times=3,loss=0.0135,accu=0.0303,lr=0.001982,decay=0.000002overfit rate = 10%
+times=4,loss=0.0135,accu=0.0303,lr=0.001976,decay=0.000002overfit rate = 10%
+times=5,loss=0.0135,accu=0.0303,lr=0.001970,decay=0.000002overfit rate = 0%
+Saved times=6,loss=0.0134,accu=0.0303,lr=0.000982,decay=0.000002overfit rate = 0%
+times=7,loss=0.0134,accu=0.0303,lr=0.000979,decay=0.000002overfit rate = 0%
+times=8,loss=0.0134,accu=0.0303,lr=0.000976,decay=0.000002overfit rate = 10%
+times=9,loss=0.0134,accu=0.0303,lr=0.000973,decay=0.000002overfit rate = 0%
+times=10,loss=0.0134,accu=0.0303,lr=0.000970,decay=0.000002overfit rate = 15%
+times=11,loss=0.0134,accu=0.0303,lr=0.000968,decay=0.000002overfit rate = 0%
+Saved times=12,loss=0.0133,accu=0.0303,lr=0.000482,decay=0.000002overfit rate = 0%
+times=13,loss=0.0133,accu=0.0303,lr=0.000481,decay=0.000002overfit rate = 0%
+times=14,loss=0.0133,accu=0.0303,lr=0.000479,decay=0.000002overfit rate = 0%
+times=15,loss=0.0133,accu=0.0303,lr=0.000478,decay=0.000002overfit rate = 0%
+times=16,loss=0.0133,accu=0.0303,lr=0.000477,decay=0.000002overfit rate = 0%
+times=17,loss=0.0133,accu=0.0303,lr=0.000475,decay=0.000002overfit rate = 0%
+Saved times=18,loss=0.0132,accu=0.0303,lr=0.000237,decay=0.000002overfit rate = 0%
+times=19,loss=0.0132,accu=0.0303,lr=0.000236,decay=0.000002overfit rate = 5%
+times=20,loss=0.0132,accu=0.0303,lr=0.000235,decay=0.000002overfit rate = 5%
+times=1,loss=0.0132,accu=0.0303,lr=0.000997,decay=0.000002overfit rate = 0%
+times=2,loss=0.0132,accu=0.0303,lr=0.000994,decay=0.000002overfit rate = 5%
+times=3,loss=0.0132,accu=0.0303,lr=0.000991,decay=0.000002overfit rate = 0%
+times=4,loss=0.0132,accu=0.0303,lr=0.000988,decay=0.000002overfit rate = 10%
+times=5,loss=0.0132,accu=0.0303,lr=0.000985,decay=0.000002overfit rate = 0%
+times=6,loss=0.0132,accu=0.0303,lr=0.000491,decay=0.000002overfit rate = 0%
+times=7,loss=0.0132,accu=0.0303,lr=0.000490,decay=0.000002overfit rate = 0%
+times=8,loss=0.0132,accu=0.0303,lr=0.000488,decay=0.000002overfit rate = 0%
+times=9,loss=0.0132,accu=0.0303,lr=0.000487,decay=0.000002overfit rate = 0%
+times=10,loss=0.0132,accu=0.0303,lr=0.000485,decay=0.000002overfit rate = 0%
+times=11,loss=0.0132,accu=0.0303,lr=0.000484,decay=0.000002overfit rate = 0%
+times=12,loss=0.0132,accu=0.0303,lr=0.000482,decay=0.000002overfit rate = 0%
+times=13,loss=0.0132,accu=0.0303,lr=0.000481,decay=0.000002overfit rate = 0%
+times=14,loss=0.0132,accu=0.0303,lr=0.000479,decay=0.000002overfit rate = 55%
+times=15,loss=0.0132,accu=0.0303,lr=0.000478,decay=0.000002overfit rate = 0%
+times=16,loss=0.0132,accu=0.0303,lr=0.000477,decay=0.000002overfit rate = 0%
+times=17,loss=0.0132,accu=0.0303,lr=0.000475,decay=0.000002overfit rate = 0%
+times=18,loss=0.0132,accu=0.0303,lr=0.000474,decay=0.000002overfit rate = 0%
+times=19,loss=0.0132,accu=0.0303,lr=0.000472,decay=0.000002overfit rate = 0%
+times=20,loss=0.0132,accu=0.0303,lr=0.000471,decay=0.000002overfit rate = 0%
+times=21,loss=0.0132,accu=0.0303,lr=0.000469,decay=0.000002overfit rate = 0%
+times=22,loss=0.0132,accu=0.0303,lr=0.000468,decay=0.000002overfit rate = 0%
+times=23,loss=0.0132,accu=0.0303,lr=0.000467,decay=0.000002overfit rate = 90%
+times=24,loss=0.0132,accu=0.0303,lr=0.000465,decay=0.000002overfit rate = 0%
+times=25,loss=0.0132,accu=0.0303,lr=0.000464,decay=0.000002overfit rate = 0%
+times=26,loss=0.0132,accu=0.0303,lr=0.000462,decay=0.000002overfit rate = 0%
+times=27,loss=0.0132,accu=0.0303,lr=0.000461,decay=0.000002overfit rate = 90%
+times=28,loss=0.0132,accu=0.0303,lr=0.000460,decay=0.000002overfit rate = 0%
+times=29,loss=0.0132,accu=0.0303,lr=0.000458,decay=0.000002overfit rate = 0%
+times=30,loss=0.0132,accu=0.0303,lr=0.000457,decay=0.000002overfit rate = 0%
+times=31,loss=0.0132,accu=0.0303,lr=0.000456,decay=0.000002overfit rate = 0%
+times=32,loss=0.0132,accu=0.0303,lr=0.000454,decay=0.000002overfit rate = 0%
+times=33,loss=0.0132,accu=0.0303,lr=0.000453,decay=0.000002overfit rate = 0%
+times=34,loss=0.0132,accu=0.0303,lr=0.000452,decay=0.000002overfit rate = 0%
+times=35,loss=0.0132,accu=0.0303,lr=0.000450,decay=0.000002overfit rate = 0%
+times=36,loss=0.0132,accu=0.0303,lr=0.000449,decay=0.000002overfit rate = 0%
+times=37,loss=0.0132,accu=0.0303,lr=0.000447,decay=0.000002overfit rate = 0%
+times=38,loss=0.0132,accu=0.0303,lr=0.000446,decay=0.000002overfit rate = 0%
+times=39,loss=0.0132,accu=0.0303,lr=0.000445,decay=0.000002overfit rate = 0%
+times=40,loss=0.0132,accu=0.0303,lr=0.000443,decay=0.000002overfit rate = 0%
+times=41,loss=0.0132,accu=0.0303,lr=0.000442,decay=0.000002overfit rate = 0%
+times=42,loss=0.0132,accu=0.0303,lr=0.000441,decay=0.000002overfit rate = 0%
+times=43,loss=0.0132,accu=0.0303,lr=0.000439,decay=0.000002overfit rate = 0%
+times=44,loss=0.0132,accu=0.0303,lr=0.000438,decay=0.000002overfit rate = 0%
+times=45,loss=0.0132,accu=0.0303,lr=0.000437,decay=0.000002overfit rate = 0%
+times=46,loss=0.0132,accu=0.0303,lr=0.000436,decay=0.000002overfit rate = 0%
+times=47,loss=0.0132,accu=0.0303,lr=0.000434,decay=0.000002overfit rate = 0%
+times=48,loss=0.0132,accu=0.0303,lr=0.000433,decay=0.000002overfit rate = 100%
+times=49,loss=0.0132,accu=0.0303,lr=0.000432,decay=0.000002overfit rate = 0%
+times=50,loss=0.0132,accu=0.0303,lr=0.000430,decay=0.000002overfit rate = 0%
+times=51,loss=0.0132,accu=0.0303,lr=0.000429,decay=0.000002overfit rate = 0%
+times=52,loss=0.0132,accu=0.0303,lr=0.000428,decay=0.000002overfit rate = 95%
+times=53,loss=0.0132,accu=0.0303,lr=0.000426,decay=0.000002overfit rate = 0%
+times=54,loss=0.0132,accu=0.0303,lr=0.000425,decay=0.000002overfit rate = 0%
+times=55,loss=0.0132,accu=0.0303,lr=0.000424,decay=0.000002overfit rate = 0%
+times=56,loss=0.0132,accu=0.0303,lr=0.000423,decay=0.000002overfit rate = 0%
+times=57,loss=0.0132,accu=0.0303,lr=0.000421,decay=0.000002overfit rate = 0%
+times=58,loss=0.0132,accu=0.0303,lr=0.000420,decay=0.000002overfit rate = 0%
+times=59,loss=0.0132,accu=0.0303,lr=0.000419,decay=0.000002overfit rate = 0%
+times=60,loss=0.0132,accu=0.0303,lr=0.000418,decay=0.000002overfit rate = 0%
+times=61,loss=0.0132,accu=0.0303,lr=0.000416,decay=0.000002overfit rate = 0%
+times=62,loss=0.0132,accu=0.0303,lr=0.000415,decay=0.000002overfit rate = 0%
+times=63,loss=0.0132,accu=0.0303,lr=0.000414,decay=0.000002overfit rate = 0%
+times=64,loss=0.0132,accu=0.0303,lr=0.000413,decay=0.000002overfit rate = 0%
+times=65,loss=0.0132,accu=0.0303,lr=0.000411,decay=0.000002overfit rate = 0%
+times=66,loss=0.0132,accu=0.0303,lr=0.000410,decay=0.000002overfit rate = 0%
+times=67,loss=0.0132,accu=0.0303,lr=0.000409,decay=0.000002overfit rate = 0%
+times=68,loss=0.0132,accu=0.0303,lr=0.000408,decay=0.000002overfit rate = 0%
+times=69,loss=0.0132,accu=0.0303,lr=0.000407,decay=0.000002overfit rate = 0%
+times=70,loss=0.0132,accu=0.0303,lr=0.000405,decay=0.000002overfit rate = 0%
+times=71,loss=0.0132,accu=0.0303,lr=0.000404,decay=0.000002overfit rate = 95%
+times=72,loss=0.0132,accu=0.0303,lr=0.000403,decay=0.000002overfit rate = 0%
+times=73,loss=0.0132,accu=0.0303,lr=0.000402,decay=0.000002overfit rate = 0%
+times=74,loss=0.0132,accu=0.0303,lr=0.000400,decay=0.000002overfit rate = 95%
+times=75,loss=0.0132,accu=0.0303,lr=0.000399,decay=0.000002overfit rate = 0%
+times=76,loss=0.0132,accu=0.0303,lr=0.000398,decay=0.000002overfit rate = 0%
+times=77,loss=0.0132,accu=0.0303,lr=0.000397,decay=0.000002overfit rate = 0%
+times=78,loss=0.0132,accu=0.0303,lr=0.000396,decay=0.000002overfit rate = 0%
+times=79,loss=0.0132,accu=0.0303,lr=0.000394,decay=0.000002overfit rate = 0%
+times=80,loss=0.0132,accu=0.0303,lr=0.000393,decay=0.000002overfit rate = 0%
+times=81,loss=0.0132,accu=0.0303,lr=0.000392,decay=0.000002overfit rate = 0%
+times=82,loss=0.0132,accu=0.0303,lr=0.000391,decay=0.000002overfit rate = 0%
+times=83,loss=0.0132,accu=0.0303,lr=0.000390,decay=0.000002overfit rate = 0%
+times=84,loss=0.0132,accu=0.0303,lr=0.000389,decay=0.000002overfit rate = 0%
+times=85,loss=0.0132,accu=0.0303,lr=0.000387,decay=0.000002overfit rate = 90%
+times=86,loss=0.0132,accu=0.0303,lr=0.000386,decay=0.000002overfit rate = 0%
+times=87,loss=0.0132,accu=0.0303,lr=0.000385,decay=0.000002overfit rate = 0%
+times=88,loss=0.0132,accu=0.0303,lr=0.000384,decay=0.000002overfit rate = 0%
+times=89,loss=0.0132,accu=0.0303,lr=0.000383,decay=0.000002overfit rate = 0%
+times=90,loss=0.0132,accu=0.0303,lr=0.000382,decay=0.000002overfit rate = 0%
+times=91,loss=0.0132,accu=0.0303,lr=0.000381,decay=0.000002overfit rate = 0%
+times=92,loss=0.0132,accu=0.0303,lr=0.000379,decay=0.000002overfit rate = 0%
+times=93,loss=0.0132,accu=0.0303,lr=0.000378,decay=0.000002overfit rate = 0%
+times=94,loss=0.0132,accu=0.0303,lr=0.000377,decay=0.000002overfit rate = 90%
+times=95,loss=0.0132,accu=0.0303,lr=0.000376,decay=0.000002overfit rate = 0%
+times=96,loss=0.0132,accu=0.0303,lr=0.000375,decay=0.000002overfit rate = 0%
+times=97,loss=0.0132,accu=0.0303,lr=0.000374,decay=0.000002overfit rate = 0%
+times=98,loss=0.0132,accu=0.0303,lr=0.000373,decay=0.000002overfit rate = 0%
+times=99,loss=0.0132,accu=0.0303,lr=0.000372,decay=0.000002overfit rate = 0%
+times=100,loss=0.0132,accu=0.0303,lr=0.000370,decay=0.000002overfit rate = 0%
+times=1,loss=0.0132,accu=0.0303,lr=0.001996,decay=0.000002overfit rate = 0%
+times=2,loss=0.0132,accu=0.0303,lr=0.001990,decay=0.000002overfit rate = 5%
+times=3,loss=0.0132,accu=0.0303,lr=0.001984,decay=0.000002overfit rate = 10%
+times=1,loss=0.0132,accu=0.0303,lr=0.009970,decay=0.000002overfit rate = 0%
+times=2,loss=0.0132,accu=0.0303,lr=0.009940,decay=0.000002overfit rate = 0%
+times=3,loss=0.0132,accu=0.0303,lr=0.009910,decay=0.000002overfit rate = 0%
+times=4,loss=0.0132,accu=0.0303,lr=0.009881,decay=0.000002overfit rate = 5%
+times=5,loss=0.0132,accu=0.0303,lr=0.009851,decay=0.000002overfit rate = 0%
+times=1,loss=0.0132,accu=0.0303,lr=0.009970,decay=0.000002overfit rate = 0%
+times=2,loss=0.0132,accu=0.0303,lr=0.009940,decay=0.000002overfit rate = 5%
